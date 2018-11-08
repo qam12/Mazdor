@@ -1,6 +1,11 @@
 
 
-# Mazdor
+# Mazdor(Employer)
+![mazdor-psd](https://user-images.githubusercontent.com/31346514/48180905-497e5780-e347-11e8-8558-47621e020c45.png)
+
+
+
+# Product
 Developing a kind of application “Smart Home Services”. Which name is "Mazdor".Design for the individual who is looking for home repairs and maintenance services, this product will help them get the services through the application installed on the Android device without going anywhere.
 
 # Scope
