@@ -1,20 +1,7 @@
+
+
 # Mazdor
 Developing a kind of application “Smart Home Services”. Which name is "Mazdor".Design for the individual who is looking for home repairs and maintenance services, this product will help them get the services through the application installed on the Android device without going anywhere.
-
-# Screenshot
-
-# Splash
-![splasmzdor](https://user-images.githubusercontent.com/31346514/47601817-57e77d80-d9ef-11e8-8eb1-8b578b71520c.PNG)
-
-# Login
-![login](https://user-images.githubusercontent.com/31346514/47601818-59b14100-d9ef-11e8-8a5c-472b613c8a3f.PNG)
-
-# Post Job
-![postjob](https://user-images.githubusercontent.com/31346514/47601820-5b7b0480-d9ef-11e8-88aa-7c55f72b8879.PNG)
-
-# Home
-![hommzdor](https://user-images.githubusercontent.com/31346514/47601821-5d44c800-d9ef-11e8-8719-94f92c6d97a7.PNG)
-
 
 # Scope
 The scope of this application to work end to end, it will work from customer user end to service user provider end, in this way the customer user can book a services user by using the application and entering their requirement of the services that they require, so the requirement of customer user will generate the inquiry to the nearest services provider through the application and as soon as the inquiry reached the services provider the will acknowledge it through the application and provide the services accordingly. 
@@ -25,9 +12,8 @@ Document Conventions
 
 # References
 The idea of this proposal has been taken from the sukoon.pk and karigar.pk, while having research during on the preparation of this SRS. 
-Overall Description
 
-#Product Features
+# Product Features
 This application is based on two interfaces, one belongs to service providers, and another belongs to customer user, on service user side he will be notified if any person is demand for service nearby him. The service provider could accept or reject the work request, on customer user end, user can look for certain service workers for themselves nearby. 
 For clearer picture of the system, see Appendix B for use case diagram.
 
