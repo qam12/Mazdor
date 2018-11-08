@@ -14,10 +14,7 @@ The scope of this application to work end to end, it will work from customer use
 # Business Goals
 First of all, this is the new trend of system generated business in this field in Pakistan, the goals of this types of business is to bring technology awareness in customer user and specially in services provider in Pakistan. For example it is very hard to find the service provider manually or lookup these services providers through on acquaintance, so there are freely chances to get the nearby service provider, customer user will find the nearby services provider without any hustle, It will also be a good addition in IT sector also this will help reducing unemployment ration for the services provider in this field in Pakistan.
 Document Conventions
-
-# References
-The idea of this proposal has been taken from the sukoon.pk and karigar.pk, while having research during on the preparation of this SRS. 
-
+ 
 # Product Features
 This application is based on two interfaces, one belongs to service providers, and another belongs to customer user, on service user side he will be notified if any person is demand for service nearby him. The service provider could accept or reject the work request, on customer user end, user can look for certain service workers for themselves nearby. 
 For clearer picture of the system, see Appendix B for use case diagram.
