@@ -99,8 +99,7 @@ public class Home2 extends AppCompatActivity
         drawer.addDrawerListener(toggle);
         toggle.syncState();
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
-
-       View des = LayoutInflater.from(getBaseContext()).inflate(R.layout.nav_header_home2, navigationView);
+        View des = LayoutInflater.from(getBaseContext()).inflate(R.layout.nav_header_home2, navigationView);
 
         UserName = (TextView)des.findViewById(R.id.usernaME);
         ProfileImg = (CircleImageView)des.findViewById(R.id.profile_pic);
@@ -128,7 +127,6 @@ public class Home2 extends AppCompatActivity
 
                                 //personal data
                                 UserName.setText(m_name.toString());
-
                                 Log.d("Name",m_name.toString());
 
 
@@ -136,9 +134,7 @@ public class Home2 extends AppCompatActivity
                                 Picasso.get().load(m_pic).placeholder(R.mipmap.place_avatar)
                                         .error(R.mipmap.place_avatar)
                                         .into(ProfileImg);
-
                                 progressDialog.dismiss();
-
                             }
                         }
                         catch (Exception e) {

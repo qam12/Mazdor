@@ -20,6 +20,8 @@ package com.example.maju.mazdor;
 
 public class Login extends AppCompatActivity implements View.OnClickListener {
 
+    static String LoggedIn_User_Email;
+
     private EditText Email_emp;
     private EditText Pass_emp;
     private Button login;
@@ -63,7 +65,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
             }
         });
 
-
         login.setOnClickListener(this);
 
 
@@ -104,6 +105,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
 
                         UID =firebaseAuth.getCurrentUser().getUid();
                         startActivity(new Intent(getApplicationContext(),Home2.class));
+
                         //Toast.makeText(Login.this, "Profile Activity", Toast.LENGTH_SHORT).show();
                     }
                     catch (Exception e) {

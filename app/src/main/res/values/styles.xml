@@ -16,7 +16,7 @@
 
     <style name="MyCustomtool">
         <item name="android:textColor">#0f0</item>
-        <item name="android:background">#2196f3</item>
+        <item name="android:background">#21B11E</item>
     </style>
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />

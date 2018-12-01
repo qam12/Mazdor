@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/bg"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content">
+
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      android:id="@+id/message_userID">
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/titleUser"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/circle"
+        android:gravity="center"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:maxLength="1"
+        android:textColor="@color/white"
+        android:text="Hello"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Naturallyater"
+        android:id="@+id/emailUser"
+        android:textSize="17sp"
+        android:layout_marginLeft="15dp"
+        android:paddingTop="10dp"
+        android:maxLength="22"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        android:layout_alignTop="@+id/titleUser"
+        android:layout_toRightOf="@+id/titleUser"
+        android:layout_toEndOf="@+id/titleUser"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Prepare."
+        android:id="@+id/phonUser"
+        android:layout_marginRight="15dp"
+        android:maxLength="22"
+        android:maxLines="1"
+        android:textColor="@color/white"
+        android:paddingBottom="10dp"
+        android:layout_below="@+id/emailUser"
+        android:layout_alignLeft="@+id/emailUser"
+        android:layout_alignStart="@+id/emailUser" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="0"
+        android:textSize="0sp"
+        android:visibility="gone"
+        android:text="1234"
+        android:id="@+id/userRep_UID"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1234"
+        android:maxLines="0"
+        android:textSize="0sp"
+        android:visibility="gone"/>
+
+    </LinearLayout>
+
+
+  </RelativeLayout>
+
+
+
+</LinearLayout>

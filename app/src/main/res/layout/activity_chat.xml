@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    >
+    <include android:id="@+id/toolpro" layout="@layout/msg_toolbar"></include>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="3sp"
+        android:paddingRight="3sp"
+        android:layout_marginTop="55dp"
+        >
+
+        <ListView
+            android:id="@+id/list_of_message"
+            android:scrollbars="none"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_above="@+id/toolpro"
+            android:dividerHeight="16dp"
+            android:divider="@android:color/transparent"
+            android:layout_marginBottom="34dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stackFromBottom="true"
+            android:transcriptMode="alwaysScroll"
+            tools:ignore="NotSibling,RtlCompat"
+            ></ListView>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/footer_section"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:background="@color/colorPrimary"
+        android:weightSum="6">
+
+        <ImageView
+            android:id="@+id/emoji_button"
+            android:padding="4dp"
+            app:srcCompat="@drawable/satisfied_emo2"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="7dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_weight="0.5"
+            tools:ignore="VectorDrawableCompat" />
+
+        <hani.momanii.supernova_emoji_library.Helper.EmojiconEditText
+            android:id="@+id/emojicon_edit_text"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@+id/emoji_button"
+            android:layout_toLeftOf="@+id/submit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:emojiconSize="28sp"
+            android:textCursorDrawable="@drawable/cursor_color"
+            android:background="@drawable/typebox"
+            android:layout_weight="5"
+            android:padding="6dp"
+            android:textSize="12sp"
+            android:textColor="@color/white"
+            android:layout_marginTop="8dp"
+
+            />
+
+        <ImageView
+            android:id="@+id/submit_button"
+            android:padding="4dp"
+            android:src="@android:drawable/ic_menu_send"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="4dp"
+            android:layout_weight="0.5"
+
+            />
+    </LinearLayout>
+
+
+
+</RelativeLayout>
