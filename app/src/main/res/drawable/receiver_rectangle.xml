@@ -5,9 +5,9 @@
         android:angle="0"
         android:centerX="0.1"
         android:centerY="0.1"
-        android:centerColor="#1976d2"
-        android:startColor="#00e5ff"
-        android:endColor="#6200ea"
+        android:centerColor="#146e13"
+        android:startColor="#146e13"
+        android:endColor="#146e13"
         android:gradientRadius="100"
         android:type="linear"/>
     <padding android:left="5dp"

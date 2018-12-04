@@ -126,7 +126,7 @@ public class MessagesAdapter extends RecyclerView.Adapter<MessagesAdapter.ViewHo
         // - replace the contents of the view with that element
         ChatMessage msg = mMessagesList.get(position);
         holder.messageTextView.setText(msg.getMessage());
-        holder.messageSenderName.setText(msg.getMessageSenderName());
+//        holder.messageSenderName.setText(msg.getMessageSenderName());
         holder.messageTimes.setText(msg.getMessageTime());
         holder.messageDates.setText(msg.getMessageDate());
 //        holder.RecivernAme.setText(msg.getMessageReceiverName());

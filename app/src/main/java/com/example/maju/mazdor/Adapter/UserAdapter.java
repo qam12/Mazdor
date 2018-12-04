@@ -16,6 +16,7 @@ import com.example.maju.mazdor.Activites.ChatActivity;
 import com.example.maju.mazdor.Activites.ChatMessagesActivity;
 import com.example.maju.mazdor.Model.UserList;
 import com.example.maju.mazdor.R;
+import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -67,6 +68,8 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.MyViewHolder> 
             }
         });
     }
+
+
 
     @Override
     public int getItemCount() {
