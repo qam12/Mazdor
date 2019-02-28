@@ -43,7 +43,7 @@ We are assuming that on services user end, their educational level is enough to 
 # latest Features
 1. Real Time Chat with Users
 2. Payment Method
-3. Easily Make Call to desire Empployee
+3. Make Call to desire Empployee
 4. Easily Customize Profile
 
  
