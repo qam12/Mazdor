@@ -40,7 +40,7 @@ We are assuming that on services user end, their educational level is enough to 
 3. This application is usable only for those who have android phone, so certain service providers are unable to use our platform.
 4. Google APIs will be used for map integration.
 
-#Latest Features
+# latest Features
 1. Real Time Chat with Users
 2. Payment Method
 3. Easily Make Call to desire Empployee
