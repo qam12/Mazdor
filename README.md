@@ -89,8 +89,30 @@ For better understanding of the app workflow, see all UML Diagrams below
 ![334](https://user-images.githubusercontent.com/31346514/53787934-1e48f500-3f42-11e9-8877-6776379bc0ca.png)
 
 # Firebase Structure Diagram
-![34344](https://user-images.githubusercontent.com/31346514/53787891-05404400-3f42-11e9-9224-266dd70712cc.png)
+![firebase](https://user-images.githubusercontent.com/31346514/53788652-3d488680-3f44-11e9-8513-729118ffe3fb.PNG)
 
+# Approach
 
+For testing of the application, we followed a reactive approach, it means that we tested our application after the build. Dynamic and heuristics strategy is followed for finding possible defects through test cases. The test cases are applied manually.
+
+# Test Cases
+
+![testing](https://user-images.githubusercontent.com/31346514/53788662-420d3a80-3f44-11e9-9467-3316733cba0f.png)
+
+![test2](https://user-images.githubusercontent.com/31346514/53788669-46395800-3f44-11e9-916e-70f8d6e2abab.png)
+
+![test3](https://user-images.githubusercontent.com/31346514/53788675-49344880-3f44-11e9-8df5-0fa55b93cc9e.png)
+
+![test4](https://user-images.githubusercontent.com/31346514/53788677-4c2f3900-3f44-11e9-9056-c3f71520f6d2.png)
+
+![test5](https://user-images.githubusercontent.com/31346514/53788684-4f2a2980-3f44-11e9-9adf-c844f3917bb6.png)
+
+![test6](https://user-images.githubusercontent.com/31346514/53788695-53eedd80-3f44-11e9-9f59-f8020b6d5385.png)
+
+![test7](https://user-images.githubusercontent.com/31346514/53788703-56e9ce00-3f44-11e9-8598-d09f5c3c142b.png)
+
+![test8](https://user-images.githubusercontent.com/31346514/53788704-594c2800-3f44-11e9-96b6-22b0d7a31b0c.png)
+
+![test9](https://user-images.githubusercontent.com/31346514/53788712-5c471880-3f44-11e9-9c92-9c8d561ce727.png)
 
 
