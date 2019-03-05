@@ -51,5 +51,44 @@ We are assuming that on services user end, their educational level is enough to 
 ![row_final](https://user-images.githubusercontent.com/31346514/53545063-07715f80-3b4a-11e9-9317-236b141ad04a.png)
 
 
+# Project Motivation
+
+It is terribly arduous to search out services provider by self or operation these services through an acquaintance. What if we tend to access services while not hurdles of finding service providers? What if labor work on their own timings and convenience? The platform we tend to provide is making those prospects true.
+
+# Aims and Objectives
+
+The app we tend to create within the results of this project is known as Mazdoor. We are working to resolve the matter of finding service providers associated with home repair through the android app. This could facilitate society by instantly finding staff through fingertips and decreasing unemployment. Through this report, you may perceive how the project got completed.
+
+
+# Scope
+
+The scope of this app is to work from service provider end to customer user end, the customer could hire a services provider through the app by matching the requirements of the services that they need. If customer found out the specific worker matching the requirements, customer can contact service provider through the app and also can chat with him.
+
+
+
+# Customer User
+From the perspective of this app, it is an individual who can request the service user for work.
+
+# Service Provider
+From the perspective of this app, it is an individual who can offer services to the customer. It is up to that individual to accept or reject the requests from customer users for being hired.
+	
+# Android OS
+The operating system that is provided by Google
+
+# Mazdoor
+The application name developed in this project. It is an Urdu word which means labor.
+
+# Firebase
+The platform by GoogleTM where the developers integrate Smart Phones / Web Applications for real-time database.
+
+# API
+API is the abbreviation of Application Programming Interface. It provides gateway to use other application features in your own application.
+
+# UML Diagrams
+
+For better understanding of the app workflow, see all UML Diagrams below
+
+
+
 
 
