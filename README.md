@@ -4,12 +4,11 @@
 ![mazdor-psd](https://user-images.githubusercontent.com/31346514/48180905-497e5780-e347-11e8-8558-47621e020c45.png)
 
 
+# Scope
+The scope of this app is to work from service provider end to customer user end, the customer could hire a services provider through the app by matching the requirements of the services that they need. If customer found out the specific worker matching the requirements, customer can contact service provider through the app and also can chat with him.
 
 # Product
 Developing a kind of application “Smart Home Services”. Which name is "Mazdor".Design for the individual who is looking for home repairs and maintenance services, this product will help them get the services through the application installed on the Android device without going anywhere.
-
-# Scope
-The scope of this application to work end to end, it will work from customer user end to service user provider end, in this way the customer user can book a services user by using the application and entering their requirement of the services that they require, so the requirement of customer user will generate the inquiry to the nearest services provider through the application and as soon as the inquiry reached the services provider the will acknowledge it through the application and provide the services accordingly. 
 
 # Business Goals
 First of all, this is the new trend of system generated business in this field in Pakistan, the goals of this types of business is to bring technology awareness in customer user and specially in services provider in Pakistan. For example it is very hard to find the service provider manually or lookup these services providers through on acquaintance, so there are freely chances to get the nearby service provider, customer user will find the nearby services provider without any hustle, It will also be a good addition in IT sector also this will help reducing unemployment ration for the services provider in this field in Pakistan.
@@ -52,19 +51,10 @@ We are assuming that on services user end, their educational level is enough to 
 
 
 # Project Motivation
-
 It is terribly arduous to search out services provider by self or operation these services through an acquaintance. What if we tend to access services while not hurdles of finding service providers? What if labor work on their own timings and convenience? The platform we tend to provide is making those prospects true.
 
 # Aims and Objectives
-
 The app we tend to create within the results of this project is known as Mazdoor. We are working to resolve the matter of finding service providers associated with home repair through the android app. This could facilitate society by instantly finding staff through fingertips and decreasing unemployment. Through this report, you may perceive how the project got completed.
-
-
-# Scope
-
-The scope of this app is to work from service provider end to customer user end, the customer could hire a services provider through the app by matching the requirements of the services that they need. If customer found out the specific worker matching the requirements, customer can contact service provider through the app and also can chat with him.
-
-
 
 # Customer User
 From the perspective of this app, it is an individual who can request the service user for work.
@@ -84,10 +74,22 @@ The platform by GoogleTM where the developers integrate Smart Phones / Web Appli
 # API
 API is the abbreviation of Application Programming Interface. It provides gateway to use other application features in your own application.
 
-# UML Diagrams
-
+# UML Diagram
 For better understanding of the app workflow, see all UML Diagrams below
 
+![dfdf](https://user-images.githubusercontent.com/31346514/53787765-b1cdf600-3f41-11e9-98de-980cfc21138a.png)
+
+# Component Diagram
+![12334](https://user-images.githubusercontent.com/31346514/53787882-ffe2f980-3f41-11e9-9b08-d4f8b20848e1.png)
+
+# System Architecture Diagram
+![33344](https://user-images.githubusercontent.com/31346514/53787872-f6f22800-3f41-11e9-9b32-5248c32df6ee.png)
+
+# ERD Diagrams Diagram
+![334](https://user-images.githubusercontent.com/31346514/53787934-1e48f500-3f42-11e9-8877-6776379bc0ca.png)
+
+# Firebase Structure Diagram
+![34344](https://user-images.githubusercontent.com/31346514/53787891-05404400-3f42-11e9-9224-266dd70712cc.png)
 
 
 
