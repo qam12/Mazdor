@@ -115,4 +115,7 @@ For testing of the application, we followed a reactive approach, it means that w
 
 ![test9](https://user-images.githubusercontent.com/31346514/53788712-5c471880-3f44-11e9-9c92-9c8d561ce727.png)
 
+# Gap Analysis Table
+
+
 
