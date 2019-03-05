@@ -117,5 +117,10 @@ For testing of the application, we followed a reactive approach, it means that w
 
 # Gap Analysis Table
 
+![gap](https://user-images.githubusercontent.com/31346514/53789196-b399b880-3f45-11e9-85e5-9fcef119b21e.PNG)
+
+# Review of Gap Analysis Table
+
+After seeing similar work, we tend to infer that applications that are made to date are either restricted to provide bound services or restricted to provide services from the company's platform. We can also additionally infer that Sukoon[1] business model relies on staff who offer services.
 
 
